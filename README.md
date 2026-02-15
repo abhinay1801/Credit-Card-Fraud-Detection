@@ -21,6 +21,7 @@ The primary challenge addressed in this project is **class imbalance**.
 
 ## Dataset Information
 
+- DatsSet : https://www.kaggle.com/datasets/jacklizhi/creditcard
 - Total Transactions: 284,807
 - Fraudulent Transactions: 492 (~0.17%)
 - Non-Fraud Transactions: ~99.83%
